@@ -13,6 +13,7 @@
 		2151F84F2799959600B2C561 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2151F84D2799959600B2C561 /* Main.storyboard */; };
 		2151F8512799959800B2C561 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2151F8502799959800B2C561 /* Assets.xcassets */; };
 		2151F8542799959800B2C561 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2151F8522799959800B2C561 /* LaunchScreen.storyboard */; };
+		2151F85C2799997A00B2C561 /* TimeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2151F85B2799997A00B2C561 /* TimeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2151F8502799959800B2C561 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2151F8532799959800B2C561 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2151F8552799959800B2C561 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2151F85B2799997A00B2C561 /* TimeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				2151F8502799959800B2C561 /* Assets.xcassets */,
 				2151F8522799959800B2C561 /* LaunchScreen.storyboard */,
 				2151F8552799959800B2C561 /* Info.plist */,
+				2151F85B2799997A00B2C561 /* TimeViewController.swift */,
 			);
 			path = NoTime;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2151F84C2799959600B2C561 /* ViewController.swift in Sources */,
+				2151F85C2799997A00B2C561 /* TimeViewController.swift in Sources */,
 				2151F8482799959600B2C561 /* AppDelegate.swift in Sources */,
 				2151F84A2799959600B2C561 /* SceneDelegate.swift in Sources */,
 			);
